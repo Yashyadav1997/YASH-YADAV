@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time Financial News Dashboard",
+  "description": "A responsive dashboard that provides real-time, AI-generated summaries of financial news across key market sectors, powered by the Gemini API with Google Search grounding.",
+  "requestFramePermissions": []
+}
